@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 460">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#a6bdc5"/><stop offset="1" stop-color="#e5e5ce"/></linearGradient></defs>
+<rect width="840" height="460" fill="url(#sky)"/><path d="M0 255q146-50 258-26t263-29q124-42 319 13v247H0Z" fill="#9cbaa1"/><path d="M0 336q171-91 331-43t509-23v190H0Z" fill="#558a77"/><path d="M-50 472Q136 290 355 314t531-236" stroke="#c3b5a0" stroke-width="88" fill="none"/><path d="M-50 472Q136 290 355 314t531-236" stroke="#3e5963" stroke-width="75" fill="none"/><path d="M-50 472Q136 290 355 314t531-236" stroke="#f4e8bb" stroke-width="4" stroke-dasharray="32 21" fill="none"/>
+<g fill="#e8d7af"><rect x="68" y="220" width="79" height="65"/><rect x="160" y="190" width="64" height="77"/><rect x="534" y="178" width="94" height="80"/><rect x="683" y="250" width="81" height="85"/></g><g fill="#66878d"><rect x="95" y="240" width="21" height="18"/><rect x="184" y="205" width="17" height="20"/><rect x="569" y="196" width="33" height="32"/></g>
+<path d="M48 415 93 375 150 397" stroke="#fff3d8" stroke-width="15" stroke-linecap="round" fill="none"/>
+</svg>
